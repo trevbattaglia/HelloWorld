@@ -1,0 +1,4 @@
+# Logged-in Chrome profile (session cookies) - never commit
+.browser-profile/
+# Cached Sleeper player database
+.cache/

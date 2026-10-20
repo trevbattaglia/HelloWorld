@@ -5,4 +5,4 @@ Sandbox for one-off tasks. Each task lives in its own `YYYY-MM-DD-short-descript
 ## Tasks
 
 <!-- One line per task folder, newest first: - [folder](folder/) — description -->
-_None yet._
+- [2026-10-20-sleeper-nba-agent](2026-10-20-sleeper-nba-agent/): Claude manages my Sleeper fantasy NBA team (read-only API plus Playwright browser for moves)
